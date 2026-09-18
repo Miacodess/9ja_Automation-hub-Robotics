@@ -47,16 +47,5 @@ I/O Synchronization: (To be updated upon completion)
 
 Key Features: (To be updated upon completion)
 
-📁 Repository Contents
-/src: Contains the .urp program files for all three tasks.
 
-/media: Demonstration videos showing continuous operation of Tasks 1, 2, and 3.
-
-/docs: System architecture diagrams and I/O mapping tables.
-
-🚀 How to Run
-Import the .urp files into a UR5e PolyScope simulator (or UR Studio Web).
-
-Ensure virtual I/O connections match the script definitions.
-
-Power on the robot arm, release brakes, and execute the Main Program tree.
+Demos of each project can be accessed in the drive folder: https://drive.google.com/drive/folders/18FROj5r9rTD9KrIasNdUdKXYqurgthB3?usp=sharing
